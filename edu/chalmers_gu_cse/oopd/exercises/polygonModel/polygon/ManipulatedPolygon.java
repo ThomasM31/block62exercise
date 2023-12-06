@@ -1,5 +1,4 @@
 package edu.chalmers_gu_cse.oopd.exercises.polygonModel.polygon;
-
 import java.awt.*;
 import java.util.List;
 
